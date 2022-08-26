@@ -18,5 +18,8 @@
   "homepage": "https://github.com/vkleer/ci_jest#readme",
   "devDependencies": {
     "jest": "^29.0.1"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.0.1"
   }
 }
